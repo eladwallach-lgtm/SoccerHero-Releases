@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "android": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://github.com/eladwallach-lgtm/SoccerHero-Releases/releases/latest/download/SoccerHero.apk"
   },
   "firmware": {
